@@ -1,0 +1,16 @@
+{
+  "name": "vitest-environment-linkedom",
+  "version": "0.0.1",
+  "description": "",
+  "main": "linkedom-test-environment.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Juan Ignacio Dominguez",
+  "license": "ISC",
+  "dependencies": {
+    "linkedom": "^0.14.26",
+    "vitest": "^0.31.4"
+  }
+}
